@@ -11,9 +11,16 @@ class OtpVid(Scene):
         #self.play(Create(square))  # animate the creation of the square
         #self.play(Transform(square, circle))  # interpolate the square into the circle
         #self.play(FadeOut(square))  # fade out animation
-        image = ImageMobject("backdoordark.jpg")
-        image.height = 7
-        self.add(image)
+        bg = ImageMobject("backdoordark.jpg")
+
+        bg.set_resampling_algorithm(RESAMPLING_ALGORITHMS["nearest"])
+
+        # Stretch to fill the entire frame
+        bg.stretch_to_fit_width(config.frame_width)
+        bg.stretch_to_fit_height(config.frame_height)
+
+        #image.height = 7
+        self.add(bg)
 
         text = Text("Alice", font="Xanmono")
         self.play(AddTextLetterByLetter(text))
