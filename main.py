@@ -22,7 +22,44 @@ class OtpVid(Scene):
         #image.height = 7
         self.add(bg)
 
-        text = Text("Alice", font="Xanmono")
-        self.play(AddTextLetterByLetter(text))
+        aliceup = Text("alice", font="Xanmono").to_edge(UP)
+        bobdown = Text("bob", font="Xanmono").to_edge(DOWN)
+        self.play(AddTextLetterByLetter(aliceup))
+        self.play(AddTextLetterByLetter(bobdown))
+
+        closed = SVGMobject("mail_closed.svg").to_edge(UP).shift(DOWN)
+        self.play(FadeIn(closed))
+        self.play(closed.animate.to_edge(DOWN).shift(UP), run_time=1.5)
+        self.play(FadeOut(closed))
+        #open_mail = SVGMobject("mail_open.svg")
+
+
         self.wait()
-        self.remove(text)
+        self.play(FadeOut(VGroup(aliceup,bobdown)))
+        key = Text("3150704", font="Xanmono")
+        self.play(AddTextLetterByLetter(key))
+        self.play(FadeOut(key))
+        dice = ImageMobject("dice.png").scale(0.25).to_edge(UP)
+        self.play(FadeIn(dice))
+
+
+
+
+
+        
+        
+
+        #self.remove(aliceup)
+        #self.remove(bobdown)
+        
+
+        #body   = Text("This is the detail.").move_to(ORIGIN)
+        #self.play(Write(title))
+        #self.wait(1)
+        #self.play(FadeIn(body, shift=UP * 0.3))
+        #self.wait(1.5)
+        #self.play(FadeIn(footer))
+        #self.wait(1)
+
+        # Fade everything out before next sequence
+        #self.play(FadeOut(VGroup(title, body, footer)))
