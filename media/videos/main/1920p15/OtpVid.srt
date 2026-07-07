@@ -1,0 +1,8 @@
+1
+00:00:00,000 --> 00:00:02,986
+If you want to send your friend a message that
+
+2
+00:00:03,086 --> 00:00:06,140
+is impossible for anyone else to read, do this.
+

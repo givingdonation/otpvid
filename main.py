@@ -1,5 +1,9 @@
 from manim import *
-class OtpVid(Scene):
+from manim_voiceover import VoiceoverScene
+from manim_voiceover.services.gtts import GTTSService
+
+
+class OtpVid(VoiceoverScene):
     def construct(self):
         #circle = Circle()  # create a circle
         #circle.set_fill(PINK, opacity=0.5)  # set color and transparency
@@ -11,6 +15,10 @@ class OtpVid(Scene):
         #self.play(Create(square))  # animate the creation of the square
         #self.play(Transform(square, circle))  # interpolate the square into the circle
         #self.play(FadeOut(square))  # fade out animation
+
+        self.set_speech_service(GTTSService(lang="en", tld="com"))
+
+
         bg = ImageMobject("backdoordark.jpg")
 
         bg.set_resampling_algorithm(RESAMPLING_ALGORITHMS["nearest"])
@@ -24,18 +32,19 @@ class OtpVid(Scene):
 
         aliceup = Text("alice", font="Xanmono").to_edge(UP)
         bobdown = Text("bob", font="Xanmono").to_edge(DOWN)
-        self.play(AddTextLetterByLetter(aliceup))
-        self.play(AddTextLetterByLetter(bobdown))
-
-        closed = SVGMobject("mail_closed.svg").to_edge(UP).shift(DOWN)
-        self.play(FadeIn(closed))
-        self.play(closed.animate.to_edge(DOWN).shift(UP), run_time=1.5)
-        self.play(FadeOut(closed))
+        
+        with self.voiceover(text="If you want to send your friend a message that is impossible for anyone else to read, do this.") as tracker:
+            self.play(AddTextLetterByLetter(aliceup))
+            self.play(AddTextLetterByLetter(bobdown))
+            closed = SVGMobject("mail_closed.svg").to_edge(UP).shift(DOWN)
+            self.play(FadeIn(closed))
+            self.play(closed.animate.to_edge(DOWN).shift(UP), run_time=1.5)
+            self.play(FadeOut(closed))
         #open_mail = SVGMobject("mail_open.svg")
 
 
-        self.wait()
-        self.play(FadeOut(VGroup(aliceup,bobdown)))
+            self.wait()
+            self.play(FadeOut(VGroup(aliceup,bobdown)))
         key = Text("3150704", font="Xanmono")
         self.play(AddTextLetterByLetter(key))
         self.play(FadeOut(key))
