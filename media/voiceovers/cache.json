@@ -160,5 +160,842 @@
     },
     "original_audio": "if-you-want-to-send-your-friend-a-message-that-is-3aaf572b.mp3",
     "final_audio": "if-you-want-to-send-your-friend-a-message-that-is-3aaf572b.mp3"
+  },
+  {
+    "input_text": "If you want to send your friend a message that is impossible for anyone else to read, do this.",
+    "input_data": {
+      "input_text": "If you want to send your friend a message that is impossible for anyone else to read, do this.",
+      "service": "gtts"
+    },
+    "original_audio": "if-you-want-to-send-your-friend-a-message-that-is-3aaf572b.mp3",
+    "final_audio": "if-you-want-to-send-your-friend-a-message-that-is-3aaf572b.mp3"
+  },
+  {
+    "input_text": "If you want to send your friend a message that is impossible for anyone else to read, do this.",
+    "input_data": {
+      "input_text": "If you want to send your friend a message that is impossible for anyone else to read, do this.",
+      "service": "gtts"
+    },
+    "original_audio": "if-you-want-to-send-your-friend-a-message-that-is-3aaf572b.mp3",
+    "final_audio": "if-you-want-to-send-your-friend-a-message-that-is-3aaf572b.mp3"
+  },
+  {
+    "input_text": "Start by making a truly random digit code.",
+    "input_data": {
+      "input_text": "Start by making a truly random digit code.",
+      "service": "gtts"
+    },
+    "original_audio": "start-by-making-a-truly-random-digit-code-e10a4db5.mp3",
+    "final_audio": "start-by-making-a-truly-random-digit-code-e10a4db5.mp3"
+  },
+  {
+    "input_text": "You could use dice and a table like this one.",
+    "input_data": {
+      "input_text": "You could use dice and a table like this one.",
+      "service": "gtts"
+    },
+    "original_audio": "you-could-use-dice-and-a-table-like-this-one-bf51d827.mp3",
+    "final_audio": "you-could-use-dice-and-a-table-like-this-one-bf51d827.mp3"
+  },
+  {
+    "input_text": "If you want to send your friend a message that is impossible for anyone else to read, do this.",
+    "input_data": {
+      "input_text": "If you want to send your friend a message that is impossible for anyone else to read, do this.",
+      "service": "gtts"
+    },
+    "original_audio": "if-you-want-to-send-your-friend-a-message-that-is-3aaf572b.mp3",
+    "final_audio": "if-you-want-to-send-your-friend-a-message-that-is-3aaf572b.mp3"
+  },
+  {
+    "input_text": "Start by making a truly random digit code.",
+    "input_data": {
+      "input_text": "Start by making a truly random digit code.",
+      "service": "gtts"
+    },
+    "original_audio": "start-by-making-a-truly-random-digit-code-e10a4db5.mp3",
+    "final_audio": "start-by-making-a-truly-random-digit-code-e10a4db5.mp3"
+  },
+  {
+    "input_text": "You could use dice and a table like this one.",
+    "input_data": {
+      "input_text": "You could use dice and a table like this one.",
+      "service": "gtts"
+    },
+    "original_audio": "you-could-use-dice-and-a-table-like-this-one-bf51d827.mp3",
+    "final_audio": "you-could-use-dice-and-a-table-like-this-one-bf51d827.mp3"
+  },
+  {
+    "input_text": "If you want to send your friend a message that is impossible for anyone else to read, do this.",
+    "input_data": {
+      "input_text": "If you want to send your friend a message that is impossible for anyone else to read, do this.",
+      "service": "gtts"
+    },
+    "original_audio": "if-you-want-to-send-your-friend-a-message-that-is-3aaf572b.mp3",
+    "final_audio": "if-you-want-to-send-your-friend-a-message-that-is-3aaf572b.mp3"
+  },
+  {
+    "input_text": "Start by making a truly random digit code.",
+    "input_data": {
+      "input_text": "Start by making a truly random digit code.",
+      "service": "gtts"
+    },
+    "original_audio": "start-by-making-a-truly-random-digit-code-e10a4db5.mp3",
+    "final_audio": "start-by-making-a-truly-random-digit-code-e10a4db5.mp3"
+  },
+  {
+    "input_text": "You could use dice and a table like this one.",
+    "input_data": {
+      "input_text": "You could use dice and a table like this one.",
+      "service": "gtts"
+    },
+    "original_audio": "you-could-use-dice-and-a-table-like-this-one-bf51d827.mp3",
+    "final_audio": "you-could-use-dice-and-a-table-like-this-one-bf51d827.mp3"
+  },
+  {
+    "input_text": "If you want to send your friend a message that is impossible for anyone else to read, do this.",
+    "input_data": {
+      "input_text": "If you want to send your friend a message that is impossible for anyone else to read, do this.",
+      "service": "gtts"
+    },
+    "original_audio": "if-you-want-to-send-your-friend-a-message-that-is-3aaf572b.mp3",
+    "final_audio": "if-you-want-to-send-your-friend-a-message-that-is-3aaf572b.mp3"
+  },
+  {
+    "input_text": "Start by making a truly random digit code.",
+    "input_data": {
+      "input_text": "Start by making a truly random digit code.",
+      "service": "gtts"
+    },
+    "original_audio": "start-by-making-a-truly-random-digit-code-e10a4db5.mp3",
+    "final_audio": "start-by-making-a-truly-random-digit-code-e10a4db5.mp3"
+  },
+  {
+    "input_text": "You could use dice and a table like this one.",
+    "input_data": {
+      "input_text": "You could use dice and a table like this one.",
+      "service": "gtts"
+    },
+    "original_audio": "you-could-use-dice-and-a-table-like-this-one-bf51d827.mp3",
+    "final_audio": "you-could-use-dice-and-a-table-like-this-one-bf51d827.mp3"
+  },
+  {
+    "input_text": "If you want to send your friend a message that is impossible for anyone else to read, do this.",
+    "input_data": {
+      "input_text": "If you want to send your friend a message that is impossible for anyone else to read, do this.",
+      "service": "gtts"
+    },
+    "original_audio": "if-you-want-to-send-your-friend-a-message-that-is-3aaf572b.mp3",
+    "final_audio": "if-you-want-to-send-your-friend-a-message-that-is-3aaf572b.mp3"
+  },
+  {
+    "input_text": "Start by making a truly random digit code.",
+    "input_data": {
+      "input_text": "Start by making a truly random digit code.",
+      "service": "gtts"
+    },
+    "original_audio": "start-by-making-a-truly-random-digit-code-e10a4db5.mp3",
+    "final_audio": "start-by-making-a-truly-random-digit-code-e10a4db5.mp3"
+  },
+  {
+    "input_text": "You could use dice and a table like this one.",
+    "input_data": {
+      "input_text": "You could use dice and a table like this one.",
+      "service": "gtts"
+    },
+    "original_audio": "you-could-use-dice-and-a-table-like-this-one-bf51d827.mp3",
+    "final_audio": "you-could-use-dice-and-a-table-like-this-one-bf51d827.mp3"
+  },
+  {
+    "input_text": "If you want to send your friend a message that is impossible for anyone else to read, do this.",
+    "input_data": {
+      "input_text": "If you want to send your friend a message that is impossible for anyone else to read, do this.",
+      "service": "gtts"
+    },
+    "original_audio": "if-you-want-to-send-your-friend-a-message-that-is-3aaf572b.mp3",
+    "final_audio": "if-you-want-to-send-your-friend-a-message-that-is-3aaf572b.mp3"
+  },
+  {
+    "input_text": "Start by making a truly random digit code.",
+    "input_data": {
+      "input_text": "Start by making a truly random digit code.",
+      "service": "gtts"
+    },
+    "original_audio": "start-by-making-a-truly-random-digit-code-e10a4db5.mp3",
+    "final_audio": "start-by-making-a-truly-random-digit-code-e10a4db5.mp3"
+  },
+  {
+    "input_text": "You could use dice and a table like this one.",
+    "input_data": {
+      "input_text": "You could use dice and a table like this one.",
+      "service": "gtts"
+    },
+    "original_audio": "you-could-use-dice-and-a-table-like-this-one-bf51d827.mp3",
+    "final_audio": "you-could-use-dice-and-a-table-like-this-one-bf51d827.mp3"
+  },
+  {
+    "input_text": "If you want to send your friend a message that is impossible for anyone else to read, do this.",
+    "input_data": {
+      "input_text": "If you want to send your friend a message that is impossible for anyone else to read, do this.",
+      "service": "gtts"
+    },
+    "original_audio": "if-you-want-to-send-your-friend-a-message-that-is-3aaf572b.mp3",
+    "final_audio": "if-you-want-to-send-your-friend-a-message-that-is-3aaf572b.mp3"
+  },
+  {
+    "input_text": "Start by making a truly random digit code.",
+    "input_data": {
+      "input_text": "Start by making a truly random digit code.",
+      "service": "gtts"
+    },
+    "original_audio": "start-by-making-a-truly-random-digit-code-e10a4db5.mp3",
+    "final_audio": "start-by-making-a-truly-random-digit-code-e10a4db5.mp3"
+  },
+  {
+    "input_text": "You could use dice and a table like this one.",
+    "input_data": {
+      "input_text": "You could use dice and a table like this one.",
+      "service": "gtts"
+    },
+    "original_audio": "you-could-use-dice-and-a-table-like-this-one-bf51d827.mp3",
+    "final_audio": "you-could-use-dice-and-a-table-like-this-one-bf51d827.mp3"
+  },
+  {
+    "input_text": "If you want to send your friend a message that is impossible for anyone else to read, do this.",
+    "input_data": {
+      "input_text": "If you want to send your friend a message that is impossible for anyone else to read, do this.",
+      "service": "gtts"
+    },
+    "original_audio": "if-you-want-to-send-your-friend-a-message-that-is-3aaf572b.mp3",
+    "final_audio": "if-you-want-to-send-your-friend-a-message-that-is-3aaf572b.mp3"
+  },
+  {
+    "input_text": "Start by making a truly random digit code.",
+    "input_data": {
+      "input_text": "Start by making a truly random digit code.",
+      "service": "gtts"
+    },
+    "original_audio": "start-by-making-a-truly-random-digit-code-e10a4db5.mp3",
+    "final_audio": "start-by-making-a-truly-random-digit-code-e10a4db5.mp3"
+  },
+  {
+    "input_text": "You could use dice and a table like this one.",
+    "input_data": {
+      "input_text": "You could use dice and a table like this one.",
+      "service": "gtts"
+    },
+    "original_audio": "you-could-use-dice-and-a-table-like-this-one-bf51d827.mp3",
+    "final_audio": "you-could-use-dice-and-a-table-like-this-one-bf51d827.mp3"
+  },
+  {
+    "input_text": "This code is the key you can only use once.",
+    "input_data": {
+      "input_text": "This code is the key you can only use once.",
+      "service": "gtts"
+    },
+    "original_audio": "this-code-is-the-key-you-can-only-use-once-c1033c28.mp3",
+    "final_audio": "this-code-is-the-key-you-can-only-use-once-c1033c28.mp3"
+  },
+  {
+    "input_text": "If you want to send your friend a message that is impossible for anyone else to read, do this.",
+    "input_data": {
+      "input_text": "If you want to send your friend a message that is impossible for anyone else to read, do this.",
+      "service": "gtts"
+    },
+    "original_audio": "if-you-want-to-send-your-friend-a-message-that-is-3aaf572b.mp3",
+    "final_audio": "if-you-want-to-send-your-friend-a-message-that-is-3aaf572b.mp3"
+  },
+  {
+    "input_text": "Start by making a truly random digit code.",
+    "input_data": {
+      "input_text": "Start by making a truly random digit code.",
+      "service": "gtts"
+    },
+    "original_audio": "start-by-making-a-truly-random-digit-code-e10a4db5.mp3",
+    "final_audio": "start-by-making-a-truly-random-digit-code-e10a4db5.mp3"
+  },
+  {
+    "input_text": "You could use dice and a table like this one.",
+    "input_data": {
+      "input_text": "You could use dice and a table like this one.",
+      "service": "gtts"
+    },
+    "original_audio": "you-could-use-dice-and-a-table-like-this-one-bf51d827.mp3",
+    "final_audio": "you-could-use-dice-and-a-table-like-this-one-bf51d827.mp3"
+  },
+  {
+    "input_text": "If you want to send your friend a message that is impossible for anyone else to read, do this.",
+    "input_data": {
+      "input_text": "If you want to send your friend a message that is impossible for anyone else to read, do this.",
+      "service": "gtts"
+    },
+    "original_audio": "if-you-want-to-send-your-friend-a-message-that-is-3aaf572b.mp3",
+    "final_audio": "if-you-want-to-send-your-friend-a-message-that-is-3aaf572b.mp3"
+  },
+  {
+    "input_text": "Start by making a truly random digit code.",
+    "input_data": {
+      "input_text": "Start by making a truly random digit code.",
+      "service": "gtts"
+    },
+    "original_audio": "start-by-making-a-truly-random-digit-code-e10a4db5.mp3",
+    "final_audio": "start-by-making-a-truly-random-digit-code-e10a4db5.mp3"
+  },
+  {
+    "input_text": "You could use dice and a table like this one.",
+    "input_data": {
+      "input_text": "You could use dice and a table like this one.",
+      "service": "gtts"
+    },
+    "original_audio": "you-could-use-dice-and-a-table-like-this-one-bf51d827.mp3",
+    "final_audio": "you-could-use-dice-and-a-table-like-this-one-bf51d827.mp3"
+  },
+  {
+    "input_text": "This code is the key you can only use once.",
+    "input_data": {
+      "input_text": "This code is the key you can only use once.",
+      "service": "gtts"
+    },
+    "original_audio": "this-code-is-the-key-you-can-only-use-once-c1033c28.mp3",
+    "final_audio": "this-code-is-the-key-you-can-only-use-once-c1033c28.mp3"
+  },
+  {
+    "input_text": "If you want to send your friend a message that is impossible for anyone else to read, do this.",
+    "input_data": {
+      "input_text": "If you want to send your friend a message that is impossible for anyone else to read, do this.",
+      "service": "gtts"
+    },
+    "original_audio": "if-you-want-to-send-your-friend-a-message-that-is-3aaf572b.mp3",
+    "final_audio": "if-you-want-to-send-your-friend-a-message-that-is-3aaf572b.mp3"
+  },
+  {
+    "input_text": "Start by making a truly random digit code.",
+    "input_data": {
+      "input_text": "Start by making a truly random digit code.",
+      "service": "gtts"
+    },
+    "original_audio": "start-by-making-a-truly-random-digit-code-e10a4db5.mp3",
+    "final_audio": "start-by-making-a-truly-random-digit-code-e10a4db5.mp3"
+  },
+  {
+    "input_text": "You could use dice and a table like this one.",
+    "input_data": {
+      "input_text": "You could use dice and a table like this one.",
+      "service": "gtts"
+    },
+    "original_audio": "you-could-use-dice-and-a-table-like-this-one-bf51d827.mp3",
+    "final_audio": "you-could-use-dice-and-a-table-like-this-one-bf51d827.mp3"
+  },
+  {
+    "input_text": "This code is the key you can only use once.",
+    "input_data": {
+      "input_text": "This code is the key you can only use once.",
+      "service": "gtts"
+    },
+    "original_audio": "this-code-is-the-key-you-can-only-use-once-c1033c28.mp3",
+    "final_audio": "this-code-is-the-key-you-can-only-use-once-c1033c28.mp3"
+  },
+  {
+    "input_text": "If you want to send your friend a message that is impossible for anyone else to read, do this.",
+    "input_data": {
+      "input_text": "If you want to send your friend a message that is impossible for anyone else to read, do this.",
+      "service": "gtts"
+    },
+    "original_audio": "if-you-want-to-send-your-friend-a-message-that-is-3aaf572b.mp3",
+    "final_audio": "if-you-want-to-send-your-friend-a-message-that-is-3aaf572b.mp3"
+  },
+  {
+    "input_text": "Start by making a truly random digit code.",
+    "input_data": {
+      "input_text": "Start by making a truly random digit code.",
+      "service": "gtts"
+    },
+    "original_audio": "start-by-making-a-truly-random-digit-code-e10a4db5.mp3",
+    "final_audio": "start-by-making-a-truly-random-digit-code-e10a4db5.mp3"
+  },
+  {
+    "input_text": "You could use dice and a table like this one.",
+    "input_data": {
+      "input_text": "You could use dice and a table like this one.",
+      "service": "gtts"
+    },
+    "original_audio": "you-could-use-dice-and-a-table-like-this-one-bf51d827.mp3",
+    "final_audio": "you-could-use-dice-and-a-table-like-this-one-bf51d827.mp3"
+  },
+  {
+    "input_text": "This code is the key you can only use once.",
+    "input_data": {
+      "input_text": "This code is the key you can only use once.",
+      "service": "gtts"
+    },
+    "original_audio": "this-code-is-the-key-you-can-only-use-once-c1033c28.mp3",
+    "final_audio": "this-code-is-the-key-you-can-only-use-once-c1033c28.mp3"
+  },
+  {
+    "input_text": "If you want to send your friend a message that is impossible for anyone else to read, do this.",
+    "input_data": {
+      "input_text": "If you want to send your friend a message that is impossible for anyone else to read, do this.",
+      "service": "gtts"
+    },
+    "original_audio": "if-you-want-to-send-your-friend-a-message-that-is-3aaf572b.mp3",
+    "final_audio": "if-you-want-to-send-your-friend-a-message-that-is-3aaf572b.mp3"
+  },
+  {
+    "input_text": "Start by making a truly random digit code.",
+    "input_data": {
+      "input_text": "Start by making a truly random digit code.",
+      "service": "gtts"
+    },
+    "original_audio": "start-by-making-a-truly-random-digit-code-e10a4db5.mp3",
+    "final_audio": "start-by-making-a-truly-random-digit-code-e10a4db5.mp3"
+  },
+  {
+    "input_text": "You could use dice and a table like this one.",
+    "input_data": {
+      "input_text": "You could use dice and a table like this one.",
+      "service": "gtts"
+    },
+    "original_audio": "you-could-use-dice-and-a-table-like-this-one-bf51d827.mp3",
+    "final_audio": "you-could-use-dice-and-a-table-like-this-one-bf51d827.mp3"
+  },
+  {
+    "input_text": "This code is the key you can only use once.",
+    "input_data": {
+      "input_text": "This code is the key you can only use once.",
+      "service": "gtts"
+    },
+    "original_audio": "this-code-is-the-key-you-can-only-use-once-c1033c28.mp3",
+    "final_audio": "this-code-is-the-key-you-can-only-use-once-c1033c28.mp3"
+  },
+  {
+    "input_text": "If you want to send your friend a message that is impossible for anyone else to read, do this.",
+    "input_data": {
+      "input_text": "If you want to send your friend a message that is impossible for anyone else to read, do this.",
+      "service": "gtts"
+    },
+    "original_audio": "if-you-want-to-send-your-friend-a-message-that-is-3aaf572b.mp3",
+    "final_audio": "if-you-want-to-send-your-friend-a-message-that-is-3aaf572b.mp3"
+  },
+  {
+    "input_text": "Start by making a truly random digit code.",
+    "input_data": {
+      "input_text": "Start by making a truly random digit code.",
+      "service": "gtts"
+    },
+    "original_audio": "start-by-making-a-truly-random-digit-code-e10a4db5.mp3",
+    "final_audio": "start-by-making-a-truly-random-digit-code-e10a4db5.mp3"
+  },
+  {
+    "input_text": "You could use dice and a table like this one.",
+    "input_data": {
+      "input_text": "You could use dice and a table like this one.",
+      "service": "gtts"
+    },
+    "original_audio": "you-could-use-dice-and-a-table-like-this-one-bf51d827.mp3",
+    "final_audio": "you-could-use-dice-and-a-table-like-this-one-bf51d827.mp3"
+  },
+  {
+    "input_text": "This code is the key you can only use once.",
+    "input_data": {
+      "input_text": "This code is the key you can only use once.",
+      "service": "gtts"
+    },
+    "original_audio": "this-code-is-the-key-you-can-only-use-once-c1033c28.mp3",
+    "final_audio": "this-code-is-the-key-you-can-only-use-once-c1033c28.mp3"
+  },
+  {
+    "input_text": "If you want to send your friend a message that is impossible for anyone else to read, do this.",
+    "input_data": {
+      "input_text": "If you want to send your friend a message that is impossible for anyone else to read, do this.",
+      "service": "gtts"
+    },
+    "original_audio": "if-you-want-to-send-your-friend-a-message-that-is-3aaf572b.mp3",
+    "final_audio": "if-you-want-to-send-your-friend-a-message-that-is-3aaf572b.mp3"
+  },
+  {
+    "input_text": "Start by making a truly random digit code.",
+    "input_data": {
+      "input_text": "Start by making a truly random digit code.",
+      "service": "gtts"
+    },
+    "original_audio": "start-by-making-a-truly-random-digit-code-e10a4db5.mp3",
+    "final_audio": "start-by-making-a-truly-random-digit-code-e10a4db5.mp3"
+  },
+  {
+    "input_text": "You could use dice and a table like this one.",
+    "input_data": {
+      "input_text": "You could use dice and a table like this one.",
+      "service": "gtts"
+    },
+    "original_audio": "you-could-use-dice-and-a-table-like-this-one-bf51d827.mp3",
+    "final_audio": "you-could-use-dice-and-a-table-like-this-one-bf51d827.mp3"
+  },
+  {
+    "input_text": "This code is the key you can only use once.",
+    "input_data": {
+      "input_text": "This code is the key you can only use once.",
+      "service": "gtts"
+    },
+    "original_audio": "this-code-is-the-key-you-can-only-use-once-c1033c28.mp3",
+    "final_audio": "this-code-is-the-key-you-can-only-use-once-c1033c28.mp3"
+  },
+  {
+    "input_text": "If you want to send your friend a message that is impossible for anyone else to read, do this.",
+    "input_data": {
+      "input_text": "If you want to send your friend a message that is impossible for anyone else to read, do this.",
+      "service": "gtts"
+    },
+    "original_audio": "if-you-want-to-send-your-friend-a-message-that-is-3aaf572b.mp3",
+    "final_audio": "if-you-want-to-send-your-friend-a-message-that-is-3aaf572b.mp3"
+  },
+  {
+    "input_text": "Start by making a truly random digit code.",
+    "input_data": {
+      "input_text": "Start by making a truly random digit code.",
+      "service": "gtts"
+    },
+    "original_audio": "start-by-making-a-truly-random-digit-code-e10a4db5.mp3",
+    "final_audio": "start-by-making-a-truly-random-digit-code-e10a4db5.mp3"
+  },
+  {
+    "input_text": "You could use dice and a table like this one.",
+    "input_data": {
+      "input_text": "You could use dice and a table like this one.",
+      "service": "gtts"
+    },
+    "original_audio": "you-could-use-dice-and-a-table-like-this-one-bf51d827.mp3",
+    "final_audio": "you-could-use-dice-and-a-table-like-this-one-bf51d827.mp3"
+  },
+  {
+    "input_text": "This code is the key you can only use once.",
+    "input_data": {
+      "input_text": "This code is the key you can only use once.",
+      "service": "gtts"
+    },
+    "original_audio": "this-code-is-the-key-you-can-only-use-once-c1033c28.mp3",
+    "final_audio": "this-code-is-the-key-you-can-only-use-once-c1033c28.mp3"
+  },
+  {
+    "input_text": "If you want to send your friend a message that is impossible for anyone else to read, do this.",
+    "input_data": {
+      "input_text": "If you want to send your friend a message that is impossible for anyone else to read, do this.",
+      "service": "gtts"
+    },
+    "original_audio": "if-you-want-to-send-your-friend-a-message-that-is-3aaf572b.mp3",
+    "final_audio": "if-you-want-to-send-your-friend-a-message-that-is-3aaf572b.mp3"
+  },
+  {
+    "input_text": "Start by making a truly random digit code.",
+    "input_data": {
+      "input_text": "Start by making a truly random digit code.",
+      "service": "gtts"
+    },
+    "original_audio": "start-by-making-a-truly-random-digit-code-e10a4db5.mp3",
+    "final_audio": "start-by-making-a-truly-random-digit-code-e10a4db5.mp3"
+  },
+  {
+    "input_text": "You could use dice and a table like this one.",
+    "input_data": {
+      "input_text": "You could use dice and a table like this one.",
+      "service": "gtts"
+    },
+    "original_audio": "you-could-use-dice-and-a-table-like-this-one-bf51d827.mp3",
+    "final_audio": "you-could-use-dice-and-a-table-like-this-one-bf51d827.mp3"
+  },
+  {
+    "input_text": "This code is the key you can only use once.",
+    "input_data": {
+      "input_text": "This code is the key you can only use once.",
+      "service": "gtts"
+    },
+    "original_audio": "this-code-is-the-key-you-can-only-use-once-c1033c28.mp3",
+    "final_audio": "this-code-is-the-key-you-can-only-use-once-c1033c28.mp3"
+  },
+  {
+    "input_text": "If you want to send your friend a message that is impossible for anyone else to read, do this.",
+    "input_data": {
+      "input_text": "If you want to send your friend a message that is impossible for anyone else to read, do this.",
+      "service": "gtts"
+    },
+    "original_audio": "if-you-want-to-send-your-friend-a-message-that-is-3aaf572b.mp3",
+    "final_audio": "if-you-want-to-send-your-friend-a-message-that-is-3aaf572b.mp3"
+  },
+  {
+    "input_text": "Start by making a truly random digit code.",
+    "input_data": {
+      "input_text": "Start by making a truly random digit code.",
+      "service": "gtts"
+    },
+    "original_audio": "start-by-making-a-truly-random-digit-code-e10a4db5.mp3",
+    "final_audio": "start-by-making-a-truly-random-digit-code-e10a4db5.mp3"
+  },
+  {
+    "input_text": "You could use dice and a table like this one.",
+    "input_data": {
+      "input_text": "You could use dice and a table like this one.",
+      "service": "gtts"
+    },
+    "original_audio": "you-could-use-dice-and-a-table-like-this-one-bf51d827.mp3",
+    "final_audio": "you-could-use-dice-and-a-table-like-this-one-bf51d827.mp3"
+  },
+  {
+    "input_text": "This code is the key you can only use once.",
+    "input_data": {
+      "input_text": "This code is the key you can only use once.",
+      "service": "gtts"
+    },
+    "original_audio": "this-code-is-the-key-you-can-only-use-once-c1033c28.mp3",
+    "final_audio": "this-code-is-the-key-you-can-only-use-once-c1033c28.mp3"
+  },
+  {
+    "input_text": "If you want to send your friend a message that is impossible for anyone else to read, do this.",
+    "input_data": {
+      "input_text": "If you want to send your friend a message that is impossible for anyone else to read, do this.",
+      "service": "gtts"
+    },
+    "original_audio": "if-you-want-to-send-your-friend-a-message-that-is-3aaf572b.mp3",
+    "final_audio": "if-you-want-to-send-your-friend-a-message-that-is-3aaf572b.mp3"
+  },
+  {
+    "input_text": "Start by making a truly random digit code.",
+    "input_data": {
+      "input_text": "Start by making a truly random digit code.",
+      "service": "gtts"
+    },
+    "original_audio": "start-by-making-a-truly-random-digit-code-e10a4db5.mp3",
+    "final_audio": "start-by-making-a-truly-random-digit-code-e10a4db5.mp3"
+  },
+  {
+    "input_text": "You could use dice and a table like this one.",
+    "input_data": {
+      "input_text": "You could use dice and a table like this one.",
+      "service": "gtts"
+    },
+    "original_audio": "you-could-use-dice-and-a-table-like-this-one-bf51d827.mp3",
+    "final_audio": "you-could-use-dice-and-a-table-like-this-one-bf51d827.mp3"
+  },
+  {
+    "input_text": "This code is the key you can only use once.",
+    "input_data": {
+      "input_text": "This code is the key you can only use once.",
+      "service": "gtts"
+    },
+    "original_audio": "this-code-is-the-key-you-can-only-use-once-c1033c28.mp3",
+    "final_audio": "this-code-is-the-key-you-can-only-use-once-c1033c28.mp3"
+  },
+  {
+    "input_text": "If you want to send your friend a message that is impossible for anyone else to read, do this.",
+    "input_data": {
+      "input_text": "If you want to send your friend a message that is impossible for anyone else to read, do this.",
+      "service": "gtts"
+    },
+    "original_audio": "if-you-want-to-send-your-friend-a-message-that-is-3aaf572b.mp3",
+    "final_audio": "if-you-want-to-send-your-friend-a-message-that-is-3aaf572b.mp3"
+  },
+  {
+    "input_text": "Start by making a truly random digit code.",
+    "input_data": {
+      "input_text": "Start by making a truly random digit code.",
+      "service": "gtts"
+    },
+    "original_audio": "start-by-making-a-truly-random-digit-code-e10a4db5.mp3",
+    "final_audio": "start-by-making-a-truly-random-digit-code-e10a4db5.mp3"
+  },
+  {
+    "input_text": "You could use dice and a table like this one.",
+    "input_data": {
+      "input_text": "You could use dice and a table like this one.",
+      "service": "gtts"
+    },
+    "original_audio": "you-could-use-dice-and-a-table-like-this-one-bf51d827.mp3",
+    "final_audio": "you-could-use-dice-and-a-table-like-this-one-bf51d827.mp3"
+  },
+  {
+    "input_text": "This code is the key you can only use once.",
+    "input_data": {
+      "input_text": "This code is the key you can only use once.",
+      "service": "gtts"
+    },
+    "original_audio": "this-code-is-the-key-you-can-only-use-once-c1033c28.mp3",
+    "final_audio": "this-code-is-the-key-you-can-only-use-once-c1033c28.mp3"
+  },
+  {
+    "input_text": "If you want to send your friend a message that is impossible for anyone else to read, do this.",
+    "input_data": {
+      "input_text": "If you want to send your friend a message that is impossible for anyone else to read, do this.",
+      "service": "gtts"
+    },
+    "original_audio": "if-you-want-to-send-your-friend-a-message-that-is-3aaf572b.mp3",
+    "final_audio": "if-you-want-to-send-your-friend-a-message-that-is-3aaf572b.mp3"
+  },
+  {
+    "input_text": "Start by making a truly random digit code.",
+    "input_data": {
+      "input_text": "Start by making a truly random digit code.",
+      "service": "gtts"
+    },
+    "original_audio": "start-by-making-a-truly-random-digit-code-e10a4db5.mp3",
+    "final_audio": "start-by-making-a-truly-random-digit-code-e10a4db5.mp3"
+  },
+  {
+    "input_text": "You could use dice and a table like this one.",
+    "input_data": {
+      "input_text": "You could use dice and a table like this one.",
+      "service": "gtts"
+    },
+    "original_audio": "you-could-use-dice-and-a-table-like-this-one-bf51d827.mp3",
+    "final_audio": "you-could-use-dice-and-a-table-like-this-one-bf51d827.mp3"
+  },
+  {
+    "input_text": "This code is the key you can only use once.",
+    "input_data": {
+      "input_text": "This code is the key you can only use once.",
+      "service": "gtts"
+    },
+    "original_audio": "this-code-is-the-key-you-can-only-use-once-c1033c28.mp3",
+    "final_audio": "this-code-is-the-key-you-can-only-use-once-c1033c28.mp3"
+  },
+  {
+    "input_text": "If you want to send your friend a message that is impossible for anyone else to read, do this.",
+    "input_data": {
+      "input_text": "If you want to send your friend a message that is impossible for anyone else to read, do this.",
+      "service": "gtts"
+    },
+    "original_audio": "if-you-want-to-send-your-friend-a-message-that-is-3aaf572b.mp3",
+    "final_audio": "if-you-want-to-send-your-friend-a-message-that-is-3aaf572b.mp3"
+  },
+  {
+    "input_text": "Start by making a truly random digit code.",
+    "input_data": {
+      "input_text": "Start by making a truly random digit code.",
+      "service": "gtts"
+    },
+    "original_audio": "start-by-making-a-truly-random-digit-code-e10a4db5.mp3",
+    "final_audio": "start-by-making-a-truly-random-digit-code-e10a4db5.mp3"
+  },
+  {
+    "input_text": "You could use dice and a table like this one.",
+    "input_data": {
+      "input_text": "You could use dice and a table like this one.",
+      "service": "gtts"
+    },
+    "original_audio": "you-could-use-dice-and-a-table-like-this-one-bf51d827.mp3",
+    "final_audio": "you-could-use-dice-and-a-table-like-this-one-bf51d827.mp3"
+  },
+  {
+    "input_text": "This code is the key you can only use once.",
+    "input_data": {
+      "input_text": "This code is the key you can only use once.",
+      "service": "gtts"
+    },
+    "original_audio": "this-code-is-the-key-you-can-only-use-once-c1033c28.mp3",
+    "final_audio": "this-code-is-the-key-you-can-only-use-once-c1033c28.mp3"
+  },
+  {
+    "input_text": "You and your friend should memorize or safely store this.",
+    "input_data": {
+      "input_text": "You and your friend should memorize or safely store this.",
+      "service": "gtts"
+    },
+    "original_audio": "you-and-your-friend-should-memorize-or-safely-480dc70c.mp3",
+    "final_audio": "you-and-your-friend-should-memorize-or-safely-480dc70c.mp3"
+  },
+  {
+    "input_text": "If you want to send your friend a message that is impossible for anyone else to read, do this.",
+    "input_data": {
+      "input_text": "If you want to send your friend a message that is impossible for anyone else to read, do this.",
+      "service": "gtts"
+    },
+    "original_audio": "if-you-want-to-send-your-friend-a-message-that-is-3aaf572b.mp3",
+    "final_audio": "if-you-want-to-send-your-friend-a-message-that-is-3aaf572b.mp3"
+  },
+  {
+    "input_text": "Start by making a truly random digit code.",
+    "input_data": {
+      "input_text": "Start by making a truly random digit code.",
+      "service": "gtts"
+    },
+    "original_audio": "start-by-making-a-truly-random-digit-code-e10a4db5.mp3",
+    "final_audio": "start-by-making-a-truly-random-digit-code-e10a4db5.mp3"
+  },
+  {
+    "input_text": "You could use dice and a table like this one.",
+    "input_data": {
+      "input_text": "You could use dice and a table like this one.",
+      "service": "gtts"
+    },
+    "original_audio": "you-could-use-dice-and-a-table-like-this-one-bf51d827.mp3",
+    "final_audio": "you-could-use-dice-and-a-table-like-this-one-bf51d827.mp3"
+  },
+  {
+    "input_text": "This code is the key you can only use once.",
+    "input_data": {
+      "input_text": "This code is the key you can only use once.",
+      "service": "gtts"
+    },
+    "original_audio": "this-code-is-the-key-you-can-only-use-once-c1033c28.mp3",
+    "final_audio": "this-code-is-the-key-you-can-only-use-once-c1033c28.mp3"
+  },
+  {
+    "input_text": "You and your friend should memorize or safely store this.",
+    "input_data": {
+      "input_text": "You and your friend should memorize or safely store this.",
+      "service": "gtts"
+    },
+    "original_audio": "you-and-your-friend-should-memorize-or-safely-480dc70c.mp3",
+    "final_audio": "you-and-your-friend-should-memorize-or-safely-480dc70c.mp3"
+  },
+  {
+    "input_text": "If you want to send your friend a message that is impossible for anyone else to read, do this.",
+    "input_data": {
+      "input_text": "If you want to send your friend a message that is impossible for anyone else to read, do this.",
+      "service": "gtts"
+    },
+    "original_audio": "if-you-want-to-send-your-friend-a-message-that-is-3aaf572b.mp3",
+    "final_audio": "if-you-want-to-send-your-friend-a-message-that-is-3aaf572b.mp3"
+  },
+  {
+    "input_text": "Start by making a truly random digit code.",
+    "input_data": {
+      "input_text": "Start by making a truly random digit code.",
+      "service": "gtts"
+    },
+    "original_audio": "start-by-making-a-truly-random-digit-code-e10a4db5.mp3",
+    "final_audio": "start-by-making-a-truly-random-digit-code-e10a4db5.mp3"
+  },
+  {
+    "input_text": "You could use dice and a table like this one.",
+    "input_data": {
+      "input_text": "You could use dice and a table like this one.",
+      "service": "gtts"
+    },
+    "original_audio": "you-could-use-dice-and-a-table-like-this-one-bf51d827.mp3",
+    "final_audio": "you-could-use-dice-and-a-table-like-this-one-bf51d827.mp3"
+  },
+  {
+    "input_text": "This code is the key you can only use once.",
+    "input_data": {
+      "input_text": "This code is the key you can only use once.",
+      "service": "gtts"
+    },
+    "original_audio": "this-code-is-the-key-you-can-only-use-once-c1033c28.mp3",
+    "final_audio": "this-code-is-the-key-you-can-only-use-once-c1033c28.mp3"
+  },
+  {
+    "input_text": "You and your friend should memorize or safely store this.",
+    "input_data": {
+      "input_text": "You and your friend should memorize or safely store this.",
+      "service": "gtts"
+    },
+    "original_audio": "you-and-your-friend-should-memorize-or-safely-480dc70c.mp3",
+    "final_audio": "you-and-your-friend-should-memorize-or-safely-480dc70c.mp3"
+  },
+  {
+    "input_text": "When you want to send a message to your friend, first turn your message into a digit code.",
+    "input_data": {
+      "input_text": "When you want to send a message to your friend, first turn your message into a digit code.",
+      "service": "gtts"
+    },
+    "original_audio": "when-you-want-to-send-a-message-to-your-friend-142cf352.mp3",
+    "final_audio": "when-you-want-to-send-a-message-to-your-friend-142cf352.mp3"
   }
 ]

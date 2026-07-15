@@ -6,3 +6,27 @@ If you want to send your friend a message that
 00:00:03,086 --> 00:00:06,140
 is impossible for anyone else to read, do this.
 
+3
+00:00:06,240 --> 00:00:09,500
+Start by making a truly random digit code.
+
+4
+00:00:09,600 --> 00:00:12,620
+You could use dice and a table like this one.
+
+5
+00:00:12,720 --> 00:00:15,884
+This code is the key you can only use once.
+
+6
+00:00:16,420 --> 00:00:20,160
+You and your friend should memorize or safely store this.
+
+7
+00:00:20,220 --> 00:00:22,696
+When you want to send a message to your
+
+8
+00:00:22,796 --> 00:00:26,000
+friend, first turn your message into a digit code.
+
