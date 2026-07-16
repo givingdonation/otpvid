@@ -17,6 +17,12 @@ pkgs.mkShell {
     portaudio   # needed by some TTS backends for audio playback
     cairo
     pango
+    (sox.override {
+    enableLame = true;     # Enables MP3 writing/encoding
+    enableLibmad = true;      # Enables MP3 reading/decoding
+    enableWavpack = true;
+    #enableTwoLame = true;  # Enables MP2 encoding
+  })
   ];
 
   shellHook = ''

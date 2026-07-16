@@ -1,32 +1,80 @@
 1
-00:00:00,000 --> 00:00:02,986
+00:00:00,000 --> 00:00:02,392
 If you want to send your friend a message that
 
 2
-00:00:03,086 --> 00:00:06,140
+00:00:02,492 --> 00:00:04,940
 is impossible for anyone else to read, do this.
 
 3
-00:00:06,240 --> 00:00:09,500
+00:00:05,300 --> 00:00:07,936
 Start by making a truly random digit code.
 
 4
-00:00:09,600 --> 00:00:12,620
+00:00:08,036 --> 00:00:10,480
 You could use dice and a table like this one.
 
 5
-00:00:12,720 --> 00:00:15,884
+00:00:11,036 --> 00:00:13,576
 This code is the key you can only use once.
 
 6
-00:00:16,420 --> 00:00:20,160
+00:00:14,736 --> 00:00:17,756
 You and your friend should memorize or safely store this.
 
 7
-00:00:20,220 --> 00:00:22,696
+00:00:17,856 --> 00:00:19,838
 When you want to send a message to your
 
 8
-00:00:22,796 --> 00:00:26,000
+00:00:19,938 --> 00:00:22,508
 friend, first turn your message into a digit code.
+
+9
+00:00:22,608 --> 00:00:25,340
+You could use a straddling checkerboard to do this.
+
+10
+00:00:25,608 --> 00:00:27,959
+Then subtract each digit in your key from a
+
+11
+00:00:28,059 --> 00:00:30,524
+digit in the same position from your message.
+
+12
+00:00:32,008 --> 00:00:33,831
+If the key digit is more than the
+
+13
+00:00:33,931 --> 00:00:36,396
+message digit, add ten to the message digit.
+
+14
+00:00:38,408 --> 00:00:41,956
+Then send the digits you get from the subtractions to your friend.
+
+15
+00:00:44,908 --> 00:00:48,460
+If you receive a message like this from your friend, add back each
+
+16
+00:00:48,560 --> 00:00:52,224
+digit from the key into what they sent. Do not carry between digits.
+
+17
+00:00:52,608 --> 00:00:56,204
+Then you can turn the digit code back into a message you can read.
+
+18
+00:00:56,304 --> 00:00:58,208
+Make sure the key is longer than or
+
+19
+00:00:58,308 --> 00:01:00,212
+equal to the code from the message.
+
+20
+00:01:00,312 --> 00:01:02,948
+Then the message will be just as secret as the key.
 
